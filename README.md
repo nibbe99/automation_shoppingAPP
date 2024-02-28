@@ -1,4 +1,4 @@
-Automation shopping app, lets you automate the product you want to buy as well as the price range.
+Automation shopping app, lets you automate the product you want to buy within your price range.
 
 
 
